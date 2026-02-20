@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://github.com/WhyShailesh/WhyShailesh/blob/main/Shailesh%20Yadav%20(1).png" alt="Banner"/> </p>
 <p align="center" style="font-size:100px; font-weight:700; margin:18px 0;">
   <span style="white-space:nowrap;">
-    👋 Hi, I'm <span style="color:#00eaff;">Shailesh</span>&nbsp;&nbsp;
+    👋 Hi, I'm <span style="color:#00eaff;">Abhishek</span>&nbsp;&nbsp;
     <a href="https://shailesh.space" target="_blank" rel="noopener" 
        style="color:#00eaff; text-decoration:none; font-size:75px; font-weight:700;">
       Portfolio &#8599;
@@ -10,7 +10,7 @@
   </span>
 </p>
 
-<h3 align="center">AI & Automation Enthusiast | Python Developer | Workflow Engineer</h3>
+<h3 align="center">FullStack Developer | Python Developer | Android Developer </h3>
 
 ---
 
