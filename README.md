@@ -1,12 +1,8 @@
 <!-- Banner -->
-<p align="center"> <img src="https://github.com/abhivishwakarma2223/abhivishwakarma2223/blob/main/abhivishwakarma.png" alt="Banner"/> </p>
+<p align="center"> <img src="https://github.com/abhivishwakarma2223/abhivishwakarma2223/blob/main/abhivishwakarma2.png" alt="Banner"/> </p>
 <p align="center" style="font-size:100px; font-weight:700; margin:18px 0;">
   <span style="white-space:nowrap;">
     👋 Hi, I'm <span style="color:#00eaff;">Abhishek</span>&nbsp;&nbsp;
-    <a href="https://shailesh.space" target="_blank" rel="noopener" 
-       style="color:#00eaff; text-decoration:none; font-size:75px; font-weight:700;">
-      Portfolio &#8599;
-    </a>
   </span>
 </p>
 
