@@ -32,21 +32,17 @@ I love collaborating, learning, and building smarter solutions every day.
 ## 🌐 Connect with Me  
 <p align="left" style="text-decoration:none;">
 
-  <a href="https://linkedin.com/in/whyshailesh" style="text-decoration:none;">
+  <a href="https://linkedin.com/in/abhivishwakarma2223" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
 
-  <a href="https://x.com/WhyShailesh" style="text-decoration:none;">
+  <a href="https://x.com/whyabhishek2223" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/X-000000.svg?style=flat&logo=x&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
 
-  <a href="mailto:Ys06022000@gmail.com" style="text-decoration:none;">
+  <a href="mailto:abhivishwakarma2223@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white"/>
   </a>&#8203;&#8203;&#8203;
-
-  <a href="https://shailesh.space" style="text-decoration:none;">
-   <img src="https://img.shields.io/badge/Portfolio-007b8f.svg?style=flat&logo=cloudflare&logoColor=white"/>
-  </a>
 
 </p>
 
